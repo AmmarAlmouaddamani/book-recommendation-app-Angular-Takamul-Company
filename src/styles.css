@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+
+.book-list {
+    height: 400px;
+    overflow: auto;
+    border: 1px solid #ddd;
+    border-radius: 7px;
+    box-shadow: 0 0 15px #ccc;
+}

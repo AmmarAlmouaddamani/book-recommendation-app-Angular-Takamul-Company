@@ -1,0 +1,19 @@
+.pagination {
+    height: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pagination-point {
+    width: 20px;
+    height: 20px;
+    line-height: 125%;
+    cursor: pointer;
+    margin-right: 10px;
+    font-size: small;
+    color: #fff;
+    background-color: #000;
+    border-radius: 50%;
+}
